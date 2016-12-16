@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt_Bilek_Mechanni_Autoverleih.Fahrzeug">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACMNAAAAwQggAMAYIgAAsCAAACEUICQBEAgkAAALDAA=</HashCode>
+      <FileName>Fahrzeug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Bilek_Mechanni_Autoverleih.Kunde">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Kunde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Bilek_Mechanni_Autoverleih.Mitarbeiter">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAgAAAAIAAAA=</HashCode>
+      <FileName>Mitarbeiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Bilek_Mechanni_Autoverleih.Person">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAAAAAKAABBCgAAQQgAAAAI=</HashCode>
+      <FileName>Perosn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Bilek_Mechanni_Autoverleih.Personenverwaltung">
+    <Position X="2.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Personenverwaltung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Bilek_Mechanni_Autoverleih.Program">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.33" />
+</ClassDiagram>
